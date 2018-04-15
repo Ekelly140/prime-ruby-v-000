@@ -9,6 +9,7 @@ if num % i == 0
   return false 
   i += 1 
 end 
-end
 return true 
+
+end
 end 
