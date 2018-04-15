@@ -1,6 +1,3 @@
 def prime?(num)
-if num.odd?
-  "maybe"
-end 
-return false 
+for 2...num
 end 
