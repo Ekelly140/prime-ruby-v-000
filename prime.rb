@@ -10,7 +10,5 @@ if num % i == 0
   i += 1 
 end 
 return true 
-
 end 
-
 end 
