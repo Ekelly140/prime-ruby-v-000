@@ -1,3 +1,6 @@
-prime?(num)
-return false if num.even?
+def prime?(num)
+if num.odd?
+  "maybe"
+end 
+return false 
 end 
