@@ -6,8 +6,9 @@ end
 
 while i < num/2
 if num % i == 0 
-  return true 
+  return false 
+  i += 1 
 end 
-return false
+return true 
 end 
 end 
